@@ -1,0 +1,620 @@
+[
+  {
+    "id": "prod-1",
+    "slug": "apple-iphone-16",
+    "name": "Apple iPhone 16",
+    "brand": "Apple",
+    "category": "mobiles",
+    "basePrice": 79900,
+    "mrp": 89900,
+    "rating": 4.8,
+    "reviewCount": 1420,
+    "image": "/products/iphone-16.jpg",
+    "images": [
+      "/products/iphone-16.jpg",
+      "/products/iphone-16-2.jpg"
+    ],
+    "description": "The latest Apple iPhone 16 featuring the powerhouse A18 Bionic chip, Camera Control button, 48MP Fusion camera system, and all-day battery life backed by Apple Intelligence.",
+    "highlights": [
+      "A18 Bionic chip with 6-core GPU",
+      "Camera Control button for instant capture",
+      "48MP Fusion Camera + 2x Telephoto",
+      "Super Retina XDR OLED display"
+    ],
+    "specs": {
+      "Display": "6.1-inch Super Retina XDR OLED (2000 nits peak brightness)",
+      "Processor": "Apple A18 Bionic Chip (6-core CPU, 5-core GPU)",
+      "Rear Camera": "48MP Fusion + 12MP Ultra Wide with Macro Mode",
+      "Front Camera": "12MP TrueDepth Camera with Autofocus",
+      "Battery Life": "Up to 22 hours video playback, Fast USB-C Charging",
+      "Operating System": "iOS 18 with Apple Intelligence support",
+      "Build & Durability": "Ceramic Shield front, Aerospace-grade Aluminum",
+      "Warranty": "1 Year Apple Manufacturer Warranty"
+    },
+    "variants": {
+      "colors": [
+        { "id": "black", "name": "Black", "hex": "#1F2024" },
+        { "id": "ultramarine", "name": "Ultramarine", "hex": "#385682" },
+        { "id": "teal", "name": "Teal", "hex": "#769B9B" },
+        { "id": "pink", "name": "Pink", "hex": "#E3A6B4" },
+        { "id": "white", "name": "White", "hex": "#F2F3F5" }
+      ],
+      "storage": [
+        { "id": "128gb", "name": "128 GB", "priceDelta": 0 },
+        { "id": "256gb", "name": "256 GB", "priceDelta": 10000 },
+        { "id": "512gb", "name": "512 GB", "priceDelta": 30000 }
+      ]
+    },
+    "emiPlans": [
+      {
+        "id": "emi-3",
+        "tenureMonths": 3,
+        "monthlyAmount": 26633,
+        "isNoCost": true,
+        "interestRate": 0,
+        "processingFee": 0,
+        "downPayment": 0,
+        "badge": "No-Cost EMI"
+      },
+      {
+        "id": "emi-6",
+        "tenureMonths": 6,
+        "monthlyAmount": 13317,
+        "isNoCost": true,
+        "interestRate": 0,
+        "processingFee": 0,
+        "downPayment": 0,
+        "badge": "Most Popular"
+      },
+      {
+        "id": "emi-9",
+        "tenureMonths": 9,
+        "monthlyAmount": 9410,
+        "isNoCost": false,
+        "interestRate": 12,
+        "processingFee": 499,
+        "downPayment": 0
+      },
+      {
+        "id": "emi-12",
+        "tenureMonths": 12,
+        "monthlyAmount": 7250,
+        "isNoCost": false,
+        "interestRate": 13.5,
+        "processingFee": 499,
+        "downPayment": 0
+      },
+      {
+        "id": "emi-18",
+        "tenureMonths": 18,
+        "monthlyAmount": 5100,
+        "isNoCost": false,
+        "interestRate": 14,
+        "processingFee": 699,
+        "downPayment": 0
+      }
+    ]
+  },
+  {
+    "id": "prod-2",
+    "slug": "samsung-galaxy-s25-5g",
+    "name": "Samsung Galaxy S25 5G",
+    "brand": "Samsung",
+    "category": "mobiles",
+    "basePrice": 74999,
+    "mrp": 82999,
+    "rating": 4.7,
+    "reviewCount": 980,
+    "image": "/products/samsung-s25.jpg",
+    "images": [
+      "/products/samsung-s25.jpg",
+      "/products/samsung-s25-2.jpg"
+    ],
+    "description": "Next-gen Galaxy AI with Snapdragon 8 Elite, 50MP flagship triple camera system, flat armor aluminum design, and 120Hz Dynamic AMOLED 2X display.",
+    "highlights": [
+      "Snapdragon 8 Elite Mobile Platform",
+      "Galaxy AI integration with Live Translate",
+      "Dynamic AMOLED 2X 120Hz Display",
+      "Triple Camera with 50MP OIS primary"
+    ],
+    "specs": {
+      "Display": "6.2-inch Dynamic AMOLED 2X 120Hz (2600 nits peak)",
+      "Processor": "Snapdragon 8 Elite Mobile Platform (3nm)",
+      "Rear Camera": "50MP (OIS) + 10MP Telephoto 3x + 12MP Ultra-wide",
+      "Front Camera": "12MP Dual Pixel AF",
+      "Battery Life": "4000mAh with 25W Fast Wired & 15W Wireless Charging",
+      "Operating System": "One UI 7 based on Android 15 (7 Years OS Updates)",
+      "Build & Durability": "Armor Aluminum frame, Gorilla Glass Victus 2",
+      "Warranty": "1 Year Samsung India Warranty"
+    },
+    "variants": {
+      "colors": [
+        { "id": "titanium-silver", "name": "Silver Shadow", "hex": "#A0A5AA" },
+        { "id": "sparkling-blue", "name": "Sparkling Blue", "hex": "#43658B" },
+        { "id": "phantom-black", "name": "Onyx Black", "hex": "#1B1C1E" }
+      ],
+      "storage": [
+        { "id": "256gb", "name": "256 GB", "priceDelta": 0 },
+        { "id": "512gb", "name": "512 GB", "priceDelta": 12000 }
+      ]
+    },
+    "emiPlans": [
+      {
+        "id": "emi-3",
+        "tenureMonths": 3,
+        "monthlyAmount": 25000,
+        "isNoCost": true,
+        "interestRate": 0,
+        "processingFee": 0,
+        "downPayment": 0,
+        "badge": "No-Cost EMI"
+      },
+      {
+        "id": "emi-6",
+        "tenureMonths": 6,
+        "monthlyAmount": 12500,
+        "isNoCost": true,
+        "interestRate": 0,
+        "processingFee": 0,
+        "downPayment": 0,
+        "badge": "Zero Down Payment"
+      },
+      {
+        "id": "emi-12",
+        "tenureMonths": 12,
+        "monthlyAmount": 6780,
+        "isNoCost": false,
+        "interestRate": 13,
+        "processingFee": 499,
+        "downPayment": 0
+      }
+    ]
+  },
+  {
+    "id": "prod-3",
+    "slug": "oneplus-13-5g",
+    "name": "OnePlus 13 5G",
+    "brand": "OnePlus",
+    "category": "mobiles",
+    "basePrice": 69999,
+    "mrp": 76999,
+    "rating": 4.6,
+    "reviewCount": 760,
+    "image": "/products/oneplus-13.jpg",
+    "images": [
+      "/products/oneplus-13.jpg"
+    ],
+    "description": "Ultra-flagship performance powered by Hasselblad camera system, 6000mAh Glacier battery, 100W SUPERVOOC charging, and 2K Oriental display.",
+    "highlights": [
+      "Hasselblad HyperTone Camera System",
+      "6000mAh Glacier Battery with 100W Charging",
+      "Snapdragon 8 Elite Processor",
+      "IP68 and IP69 Water & Dust Resistance"
+    ],
+    "specs": {
+      "Display": "6.82-inch 2K LTPO 4.0 Oriental Display (120Hz, 4500 nits)",
+      "Processor": "Snapdragon 8 Elite Octa-Core Processor",
+      "Rear Camera": "50MP Sony LYT-808 + 50MP Periscope 3x + 50MP Ultra-wide",
+      "Front Camera": "32MP Ultra-clear Selfie Camera",
+      "Battery Life": "6000mAh Glacier Battery with 100W SUPERVOOC",
+      "Operating System": "OxygenOS 15 based on Android 15",
+      "Build & Durability": "IP68 / IP69 Water & Dust Resistance",
+      "Warranty": "1 Year OnePlus Official Warranty"
+    },
+    "variants": {
+      "colors": [
+        { "id": "obsidian-black", "name": "Black Eclipse", "hex": "#18181A" },
+        { "id": "emerald-green", "name": "Emerald Green", "hex": "#2B4C3F" },
+        { "id": "arctic-white", "name": "Arctic Dawn", "hex": "#EBECEE" }
+      ],
+      "storage": [
+        { "id": "256gb", "name": "256 GB / 12GB RAM", "priceDelta": 0 },
+        { "id": "512gb", "name": "512 GB / 16GB RAM", "priceDelta": 8000 }
+      ]
+    },
+    "emiPlans": [
+      {
+        "id": "emi-3",
+        "tenureMonths": 3,
+        "monthlyAmount": 23333,
+        "isNoCost": true,
+        "interestRate": 0,
+        "processingFee": 0,
+        "downPayment": 0,
+        "badge": "No-Cost EMI"
+      },
+      {
+        "id": "emi-6",
+        "tenureMonths": 6,
+        "monthlyAmount": 11667,
+        "isNoCost": true,
+        "interestRate": 0,
+        "processingFee": 0,
+        "downPayment": 0,
+        "badge": "No-Cost EMI"
+      },
+      {
+        "id": "emi-12",
+        "tenureMonths": 12,
+        "monthlyAmount": 6340,
+        "isNoCost": false,
+        "interestRate": 13,
+        "processingFee": 399,
+        "downPayment": 0
+      }
+    ]
+  },
+  {
+    "id": "prod-4",
+    "slug": "apple-macbook-air-13-m3",
+    "name": "Apple MacBook Air 13\" M3",
+    "brand": "Apple",
+    "category": "laptops",
+    "basePrice": 104900,
+    "mrp": 114900,
+    "rating": 4.9,
+    "reviewCount": 1890,
+    "image": "/products/macbook-air.jpg",
+    "images": [
+      "/products/macbook-air.jpg",
+      "/products/macbook-air-2.jpg"
+    ],
+    "description": "Strikingly thin and fast. MacBook Air with M3 chip delivers up to 18 hours of battery life, liquid retina display, and enhanced AI workloads.",
+    "highlights": [
+      "Apple M3 8-core CPU and up to 10-core GPU",
+      "Up to 18 hours of battery life",
+      "13.6-inch Liquid Retina display with 500 nits",
+      "MagSafe 3 charging and two Thunderbolt ports"
+    ],
+    "specs": {
+      "Display": "13.6-inch Liquid Retina display (2560 x 1664, 500 nits, True Tone)",
+      "Processor": "Apple M3 Chip (8-core CPU, up to 10-core GPU, 16-core Neural Engine)",
+      "Memory & Storage": "8GB / 16GB Unified Memory + 256GB / 512GB SSD",
+      "Battery Life": "Up to 18 hours Apple TV app movie playback",
+      "Ports & Audio": "MagSafe 3, 2x Thunderbolt / USB 4, 3.5mm jack, 4-speaker sound",
+      "Weight & Form": "1.24 kg (0.44 inch thin fanless silent aluminum body)",
+      "Warranty": "1 Year Apple India Hardware Warranty"
+    },
+    "variants": {
+      "colors": [
+        { "id": "midnight", "name": "Midnight", "hex": "#1C2430" },
+        { "id": "starlight", "name": "Starlight", "hex": "#E5DEC9" },
+        { "id": "space-gray", "name": "Space Gray", "hex": "#717378" },
+        { "id": "silver", "name": "Silver", "hex": "#D8D9DC" }
+      ],
+      "storage": [
+        { "id": "256gb", "name": "8GB Unified / 256GB SSD", "priceDelta": 0 },
+        { "id": "512gb", "name": "16GB Unified / 512GB SSD", "priceDelta": 20000 }
+      ]
+    },
+    "emiPlans": [
+      {
+        "id": "emi-6",
+        "tenureMonths": 6,
+        "monthlyAmount": 17483,
+        "isNoCost": true,
+        "interestRate": 0,
+        "processingFee": 0,
+        "downPayment": 0,
+        "badge": "No-Cost EMI"
+      },
+      {
+        "id": "emi-12",
+        "tenureMonths": 12,
+        "monthlyAmount": 8742,
+        "isNoCost": true,
+        "interestRate": 0,
+        "processingFee": 0,
+        "downPayment": 0,
+        "badge": "0% Interest Special"
+      },
+      {
+        "id": "emi-18",
+        "tenureMonths": 18,
+        "monthlyAmount": 6680,
+        "isNoCost": false,
+        "interestRate": 13.5,
+        "processingFee": 799,
+        "downPayment": 0
+      },
+      {
+        "id": "emi-24",
+        "tenureMonths": 24,
+        "monthlyAmount": 5230,
+        "isNoCost": false,
+        "interestRate": 14,
+        "processingFee": 999,
+        "downPayment": 0
+      }
+    ]
+  },
+  {
+    "id": "prod-5",
+    "slug": "asus-vivobook-16-oled",
+    "name": "ASUS Vivobook 16 OLED",
+    "brand": "ASUS",
+    "category": "laptops",
+    "basePrice": 59990,
+    "mrp": 78990,
+    "rating": 4.5,
+    "reviewCount": 430,
+    "image": "/products/asus-vivobook.jpg",
+    "images": [
+      "/products/asus-vivobook.jpg"
+    ],
+    "description": "Unleash vibrant visuals with 3.2K 120Hz OLED display, Intel Core i5 13th Gen, 16GB RAM, and military-grade durability.",
+    "highlights": [
+      "16-inch 3.2K 120Hz OLED NanoEdge Display",
+      "Intel Core i5-13500H High-Performance CPU",
+      "16GB DDR4 RAM + 512GB PCIe 4.0 SSD",
+      "180-degree lay-flat hinge with ErgoSense keyboard"
+    ],
+    "specs": {
+      "Display": "16-inch 3.2K (3200 x 2000) 120Hz OLED 16:10 (550 nits HDR)",
+      "Processor": "Intel Core i5-13500H 12-Core 16-Thread (up to 4.7 GHz)",
+      "Memory & Storage": "16GB DDR4 3200MHz RAM + 512GB / 1TB M.2 NVMe SSD",
+      "Graphics": "Intel Iris Xe Graphics",
+      "Battery Life": "70WHrs 3-cell Li-ion with Fast Charge support",
+      "Keyboard & Audio": "Backlit ErgoSense Chiclet Keyboard, SonicMaster Audio",
+      "Warranty": "1 Year ASUS Onsite International Warranty"
+    },
+    "variants": {
+      "colors": [
+        { "id": "indie-black", "name": "Indie Black", "hex": "#1A1A1A" },
+        { "id": "cool-silver", "name": "Cool Silver", "hex": "#D1D5DB" }
+      ],
+      "storage": [
+        { "id": "512gb", "name": "16GB RAM / 512GB SSD", "priceDelta": 0 },
+        { "id": "1tb", "name": "16GB RAM / 1TB SSD", "priceDelta": 7000 }
+      ]
+    },
+    "emiPlans": [
+      {
+        "id": "emi-3",
+        "tenureMonths": 3,
+        "monthlyAmount": 19997,
+        "isNoCost": true,
+        "interestRate": 0,
+        "processingFee": 0,
+        "downPayment": 0,
+        "badge": "No-Cost EMI"
+      },
+      {
+        "id": "emi-6",
+        "tenureMonths": 6,
+        "monthlyAmount": 9998,
+        "isNoCost": true,
+        "interestRate": 0,
+        "processingFee": 0,
+        "downPayment": 0,
+        "badge": "No-Cost EMI"
+      },
+      {
+        "id": "emi-12",
+        "tenureMonths": 12,
+        "monthlyAmount": 5420,
+        "isNoCost": false,
+        "interestRate": 12.5,
+        "processingFee": 399,
+        "downPayment": 0
+      }
+    ]
+  },
+  {
+    "id": "prod-6",
+    "slug": "sony-wh-1000xm5-wireless-headphones",
+    "name": "Sony WH-1000XM5 Wireless Headphones",
+    "brand": "Sony",
+    "category": "audio",
+    "basePrice": 28990,
+    "mrp": 34990,
+    "rating": 4.8,
+    "reviewCount": 3200,
+    "image": "/products/sony-xm5.jpg",
+    "images": [
+      "/products/sony-xm5.jpg"
+    ],
+    "description": "Industry-leading noise canceling with two processors, 8 microphones, Auto NC Optimizer, and ultra-clear hands-free calling.",
+    "highlights": [
+      "Industry Leading Active Noise Cancellation",
+      "Up to 30-hour battery life with quick charging",
+      "Ultra-comfortable lightweight design in soft fit leather",
+      "Speak-to-chat and multi-point Bluetooth pairing"
+    ],
+    "specs": {
+      "Acoustic Driver": "30mm specially engineered carbon fiber composite driver",
+      "Noise Cancellation": "Dual Processor V1 + HD QN1 with 8 microphones & Auto NC",
+      "Battery Life": "Up to 30 hours (NC ON), 3-minute quick charge gives 3 hours",
+      "Bluetooth & Codecs": "Bluetooth 5.2, LDAC, AAC, SBC, Multi-point pairing",
+      "Microphones": "4 beamforming mics with AI-based noise reduction",
+      "Weight & Comfort": "250g ultra-lightweight soft fit synthetic leather",
+      "Warranty": "1 Year Sony India Warranty"
+    },
+    "variants": {
+      "colors": [
+        { "id": "black", "name": "Black", "hex": "#1A1A1A" },
+        { "id": "silver", "name": "Platinum Silver", "hex": "#E0DFDB" },
+        { "id": "midnight-blue", "name": "Midnight Blue", "hex": "#18233C" }
+      ],
+      "storage": [
+        { "id": "standard", "name": "Standard Edition", "priceDelta": 0 }
+      ]
+    },
+    "emiPlans": [
+      {
+        "id": "emi-3",
+        "tenureMonths": 3,
+        "monthlyAmount": 9663,
+        "isNoCost": true,
+        "interestRate": 0,
+        "processingFee": 0,
+        "downPayment": 0,
+        "badge": "No-Cost EMI"
+      },
+      {
+        "id": "emi-6",
+        "tenureMonths": 6,
+        "monthlyAmount": 4832,
+        "isNoCost": true,
+        "interestRate": 0,
+        "processingFee": 0,
+        "downPayment": 0,
+        "badge": "No-Cost EMI"
+      },
+      {
+        "id": "emi-9",
+        "tenureMonths": 9,
+        "monthlyAmount": 3410,
+        "isNoCost": false,
+        "interestRate": 12,
+        "processingFee": 199,
+        "downPayment": 0
+      }
+    ]
+  },
+  {
+    "id": "prod-7",
+    "slug": "samsung-55-crystal-4k-uhd-tv",
+    "name": "Samsung 55\" Crystal 4K UHD TV",
+    "brand": "Samsung",
+    "category": "tvs",
+    "basePrice": 44990,
+    "mrp": 62900,
+    "rating": 4.6,
+    "reviewCount": 610,
+    "image": "/products/samsung-tv.jpg",
+    "images": [
+      "/products/samsung-tv.jpg"
+    ],
+    "description": "PurColor crystal processor 4K smart TV with HDR10+, OTS Lite object tracking sound, and bezel-less design.",
+    "highlights": [
+      "Crystal Processor 4K with Upscaling",
+      "PurColor for vibrant picture performance",
+      "Q-Symphony soundbar synchronization",
+      "Smart TV Hub with Bixby & Alexa support"
+    ],
+    "specs": {
+      "Screen & Resolution": "55-Inch (138 cm) Crystal 4K UHD (3840 x 2160, 50Hz)",
+      "Processor & Picture": "Crystal Processor 4K, HDR 10+, Mega Contrast, PurColor",
+      "Audio Output": "20W 2CH Sound with OTS Lite and Q-Symphony",
+      "Connectivity": "3 HDMI, 1 USB, Optical Digital Out, Wi-Fi 5, Bluetooth 5.2",
+      "Smart Platform": "Samsung Tizen OS with web browser and voice assistants",
+      "In the Box": "TV Unit, SolarCell Remote, Power Cable, Wall Mount Stand",
+      "Warranty": "1 Year Comprehensive + 1 Year Additional Panel Warranty"
+    },
+    "variants": {
+      "colors": [
+        { "id": "black", "name": "Titan Black", "hex": "#111111" }
+      ],
+      "storage": [
+        { "id": "55-inch", "name": "55 Inch (138 cm)", "priceDelta": 0 },
+        { "id": "65-inch", "name": "65 Inch (163 cm)", "priceDelta": 21000 }
+      ]
+    },
+    "emiPlans": [
+      {
+        "id": "emi-3",
+        "tenureMonths": 3,
+        "monthlyAmount": 14997,
+        "isNoCost": true,
+        "interestRate": 0,
+        "processingFee": 0,
+        "downPayment": 0,
+        "badge": "No-Cost EMI"
+      },
+      {
+        "id": "emi-6",
+        "tenureMonths": 6,
+        "monthlyAmount": 7498,
+        "isNoCost": true,
+        "interestRate": 0,
+        "processingFee": 0,
+        "downPayment": 0,
+        "badge": "No-Cost EMI"
+      },
+      {
+        "id": "emi-12",
+        "tenureMonths": 12,
+        "monthlyAmount": 4070,
+        "isNoCost": false,
+        "interestRate": 13,
+        "processingFee": 299,
+        "downPayment": 0
+      }
+    ]
+  },
+  {
+    "id": "prod-8",
+    "slug": "apple-watch-series-10-gps",
+    "name": "Apple Watch Series 10 GPS",
+    "brand": "Apple",
+    "category": "electronics",
+    "basePrice": 46900,
+    "mrp": 49900,
+    "rating": 4.8,
+    "reviewCount": 1150,
+    "image": "/products/apple-watch.jpg",
+    "images": [
+      "/products/apple-watch.jpg",
+      "/products/apple-watch-2.jpg"
+    ],
+    "description": "Thinnest Apple Watch ever with our biggest display. Breakthrough health sensors including sleep apnea notifications and faster charging.",
+    "highlights": [
+      "Wide-angle OLED display with 40% brighter off-axis view",
+      "Sleep apnea detection & ECG sensor",
+      "Depth gauge & water temperature sensor",
+      "Fast charging to 80% in about 30 minutes"
+    ],
+    "specs": {
+      "Display": "Wide-angle Always-On OLED Retina Display (up to 2000 nits)",
+      "Processor & Chip": "S10 SiP with 64-bit dual-core processor and 4-core Neural Engine",
+      "Health Sensors": "Sleep apnea detection, Electrical heart sensor (ECG), Blood oxygen",
+      "Water Resistance": "50m swimproof, Depth gauge to 6m, Water temperature sensor",
+      "Battery Life": "Up to 18 hours normal use, 36 hours in Low Power Mode",
+      "Charging": "Fast magnetic charging to 80% in ~30 minutes",
+      "Warranty": "1 Year Apple India Warranty"
+    },
+    "variants": {
+      "colors": [
+        { "id": "jet-black", "name": "Jet Black Aluminum", "hex": "#0C0C0D" },
+        { "id": "rose-gold", "name": "Rose Gold", "hex": "#E3A39B" },
+        { "id": "silver", "name": "Silver Aluminum", "hex": "#DCE0E3" }
+      ],
+      "storage": [
+        { "id": "42mm", "name": "42mm Case", "priceDelta": 0 },
+        { "id": "46mm", "name": "46mm Case", "priceDelta": 3000 }
+      ]
+    },
+    "emiPlans": [
+      {
+        "id": "emi-3",
+        "tenureMonths": 3,
+        "monthlyAmount": 15633,
+        "isNoCost": true,
+        "interestRate": 0,
+        "processingFee": 0,
+        "downPayment": 0,
+        "badge": "No-Cost EMI"
+      },
+      {
+        "id": "emi-6",
+        "tenureMonths": 6,
+        "monthlyAmount": 7817,
+        "isNoCost": true,
+        "interestRate": 0,
+        "processingFee": 0,
+        "downPayment": 0,
+        "badge": "No-Cost EMI"
+      },
+      {
+        "id": "emi-12",
+        "tenureMonths": 12,
+        "monthlyAmount": 4250,
+        "isNoCost": false,
+        "interestRate": 13,
+        "processingFee": 299,
+        "downPayment": 0
+      }
+    ]
+  }
+]

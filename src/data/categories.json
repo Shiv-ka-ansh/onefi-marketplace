@@ -1,0 +1,8 @@
+[
+  { "id": "all", "name": "All Products", "icon": "Sparkles" },
+  { "id": "mobiles", "name": "Mobiles", "icon": "Smartphone" },
+  { "id": "laptops", "name": "Laptops", "icon": "Laptop" },
+  { "id": "tvs", "name": "TVs", "icon": "Tv" },
+  { "id": "audio", "name": "Audio", "icon": "Headphones" },
+  { "id": "electronics", "name": "Wearables", "icon": "Watch" }
+]
